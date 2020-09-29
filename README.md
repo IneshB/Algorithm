@@ -1,2 +1,2 @@
-# Algorithm
-Square hitting each other and turning red.
+# p5.play-boilerplate
+Boiler plate for p5.play
